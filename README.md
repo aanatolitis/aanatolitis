@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antonis Anatolitis
+# 👋 Hi, I'm Aggelos Anatolitis
 
 🌐 Web Designer & Developer | 🛡️ Cybersecurity Enthusiast | 🎓 eJPT Certified  
 From chef's knife to command line — pursuing tech with precision and passion.
