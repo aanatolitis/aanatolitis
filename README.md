@@ -26,6 +26,7 @@ From chef's knife to command line — pursuing tech with precision and passion.
   - **Scripting & OS**: Bash, Windows CMD, Linux CLI
 - **Programming**: C++ (basics)
 - **Other Tools**: Git, VS Code, VirtualBox, OpenVPN
+- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3717077" style='border:none;'></iframe>
 
 
 ### 🧪 Cybersecurity Labs (TryHackMe)
